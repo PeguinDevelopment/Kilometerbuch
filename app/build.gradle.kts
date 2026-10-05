@@ -17,7 +17,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "de.penguin.development.kilometerbuch"
+        applicationId = "de.penguindevelopment.kilometerbuch"
         minSdk = 26
         targetSdk = 36
         versionCode = 2
